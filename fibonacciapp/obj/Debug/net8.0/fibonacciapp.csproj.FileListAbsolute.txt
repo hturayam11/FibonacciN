@@ -1,0 +1,14 @@
+C:\Users\Student-25\Documents\DEB\FibonacciN\fibonacciapp\bin\Debug\net8.0\fibonacciapp.exe
+C:\Users\Student-25\Documents\DEB\FibonacciN\fibonacciapp\bin\Debug\net8.0\fibonacciapp.deps.json
+C:\Users\Student-25\Documents\DEB\FibonacciN\fibonacciapp\bin\Debug\net8.0\fibonacciapp.runtimeconfig.json
+C:\Users\Student-25\Documents\DEB\FibonacciN\fibonacciapp\bin\Debug\net8.0\fibonacciapp.dll
+C:\Users\Student-25\Documents\DEB\FibonacciN\fibonacciapp\bin\Debug\net8.0\fibonacciapp.pdb
+C:\Users\Student-25\Documents\DEB\FibonacciN\fibonacciapp\obj\Debug\net8.0\fibonacciapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student-25\Documents\DEB\FibonacciN\fibonacciapp\obj\Debug\net8.0\fibonacciapp.AssemblyInfoInputs.cache
+C:\Users\Student-25\Documents\DEB\FibonacciN\fibonacciapp\obj\Debug\net8.0\fibonacciapp.AssemblyInfo.cs
+C:\Users\Student-25\Documents\DEB\FibonacciN\fibonacciapp\obj\Debug\net8.0\fibonacciapp.csproj.CoreCompileInputs.cache
+C:\Users\Student-25\Documents\DEB\FibonacciN\fibonacciapp\obj\Debug\net8.0\fibonacciapp.dll
+C:\Users\Student-25\Documents\DEB\FibonacciN\fibonacciapp\obj\Debug\net8.0\refint\fibonacciapp.dll
+C:\Users\Student-25\Documents\DEB\FibonacciN\fibonacciapp\obj\Debug\net8.0\fibonacciapp.pdb
+C:\Users\Student-25\Documents\DEB\FibonacciN\fibonacciapp\obj\Debug\net8.0\fibonacciapp.genruntimeconfig.cache
+C:\Users\Student-25\Documents\DEB\FibonacciN\fibonacciapp\obj\Debug\net8.0\ref\fibonacciapp.dll
